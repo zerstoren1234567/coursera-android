@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">coursera</string>
+    <string name="saludo">Hola</string>
+    <string name="despedida">adios</string>
+</resources>
